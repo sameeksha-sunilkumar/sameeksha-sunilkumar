@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sameeksha 👋</h1>
 
-<!--
-**sameeksha-sunilkumar/sameeksha-sunilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Final-year Engineering Student • Machine Learning & AI Enthusiast • GDG ML Lead • Open Source Contributor
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+I'm currently pursuing my undergraduate degree and actively working on machine learning, AIoT systems, and real-world AI applications.  
+I’ve presented at conferences, led ML communities, and built several projects ranging from emotion recognition to smart baking tools.
+
+---
+
+### 🧠 Interests
+
+- Machine Learning & Deep Learning  
+- Computer Vision & AI in Healthcare  
+- AIoT and Embedded AI  
+- Generative AI & Research Projects
+
+---
+
+### 🛠 Tools & Technologies
+
+- **Languages:** Python, C, HTML, JS  
+- **ML/DL:** TensorFlow, PyTorch, Scikit-learn  
+- **Computer Vision:** OpenCV, YOLOv5, Haar Cascades  
+- **Web & Backend:** Flask, Firebase, Jekyll  
+- **Hardware & IoT:** Arduino, Raspberry Pi  
+- **Others:** Git, GitHub, Google Colab, VSCode
+
+---
+### 📫 Get in Touch
+
+- 🔗 LinkedIn: [linkedin.com/in/sameeksha](https://www.linkedin.com/in/sameeksha-sunilkumar) 
+- 📰 Medium: [medium.com/@sameeksha-sunilkumar](http://medium.com/@sameeksha-sunilkumar)  
+- 📧 Email: sameeksha.s017@gmail.com  
+- 🎖️ Credly: [credly.com/users/sameeksha-sunilkumar](https://www.credly.com/users/sameeksha-sunilkumar)
+
+---
