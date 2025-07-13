@@ -42,12 +42,11 @@ I’ve presented at conferences, led ML communities, and built several projects 
 ---
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sameeksha-sunilkumar&show_icons=true&hide_border=true&count_private=true&title_color=2b80ff&icon_color=2b80ff&text_color=333" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksha-sunilkumar&hide_border=true&layout=compact&langs_count=8&title_color=2b80ff&icon_color=2b80ff&text_color=333" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeksha-sunilkumar&count_private=true&show_icons=false&hide_title=true&hide_border=true&hide_rank=true&hide=issues,stars,followers,contribs" alt="Total Contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameeksha-sunilkumar&hide_border=true&stroke=2b80ff&ring=2b80ff&fire=2b80ff&currStreakNum=2b80ff" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameeksha-sunilkumar&layout=pie_chart&langs_count=8&hide_border=true" alt="Top Languages Pie Chart" />
 </p>
 
 
