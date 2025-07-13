@@ -40,3 +40,11 @@ I’ve presented at conferences, led ML communities, and built several projects 
 - 🎖️ Credly: [credly.com/users/sameeksha-sunilkumar](https://www.credly.com/users/sameeksha-sunilkumar)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameeksha-sunilkumar&show_icons=true&theme=dark&count_private=true" alt="Sameeksha's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameeksha-sunilkumar&theme=dark" alt="Sameeksha's GitHub Streak" />
+</p>
+
+---
